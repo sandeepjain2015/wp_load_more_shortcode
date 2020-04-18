@@ -1,4 +1,4 @@
-WP Load more shortcode
+Load more shortcode
 
 
 Use shortcode [bp_load_more] for  plugin functionality.
