@@ -1,4 +1,3 @@
-# wp_load_more_shortcode
 WP Load more shortcode
 Use shortcode [bp_load_more] for  plugin functionality.
 
